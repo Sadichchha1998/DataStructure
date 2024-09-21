@@ -1,6 +1,6 @@
 package org.example;
 
-public class TrickyQuestion12 {
+public class TrickeyQuestion12 {
     public static void main(String[] args) {
         String s1 = "stay safe";
         String s2 = "stay safe";
