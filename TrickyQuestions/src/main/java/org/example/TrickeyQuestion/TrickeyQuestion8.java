@@ -1,3 +1,5 @@
+package org.example.TrickeyQuestion;
+
 public class TrickeyQuestion8 {
     public static void main(String[] args) {
         String str1= "Hello", str2= "Java";

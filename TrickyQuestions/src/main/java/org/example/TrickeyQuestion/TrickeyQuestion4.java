@@ -1,4 +1,4 @@
-package org.example;
+package org.example.TrickeyQuestion;
 
 class  Vehical1 {
     public void drive() {

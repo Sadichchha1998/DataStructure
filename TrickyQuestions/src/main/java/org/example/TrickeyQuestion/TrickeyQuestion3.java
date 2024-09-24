@@ -1,4 +1,4 @@
-package org.example;
+package org.example.TrickeyQuestion;
 class Vehical{
     public void drive (){
         System.out.println("Vehical is driving");

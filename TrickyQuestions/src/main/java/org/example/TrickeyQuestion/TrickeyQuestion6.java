@@ -1,6 +1,4 @@
-package org.example;
-
-import static org.example.TrickeyQuestion6.fun;
+package org.example.TrickeyQuestion;
 
 public class TrickeyQuestion6 {
     public static void main(String[] args) {

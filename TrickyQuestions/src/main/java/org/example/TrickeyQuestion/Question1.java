@@ -1,4 +1,4 @@
-package org.example;
+package org.example.TrickeyQuestion;
 
 public class Question1 {
 //    public void sum(int a, int b) {

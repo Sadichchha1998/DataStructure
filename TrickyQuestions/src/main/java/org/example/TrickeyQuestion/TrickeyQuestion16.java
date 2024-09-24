@@ -1,4 +1,4 @@
-package org.example;
+package org.example.TrickeyQuestion;
 
 public class TrickeyQuestion16 {
     static int data[];

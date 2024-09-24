@@ -1,4 +1,4 @@
-package org.example;
+package org.example.TrickeyQuestion;
 
 public class TrickeyQuestion9 {
     public static void main(String[] args) {

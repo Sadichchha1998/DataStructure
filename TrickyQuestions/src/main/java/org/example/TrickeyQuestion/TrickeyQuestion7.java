@@ -1,4 +1,4 @@
-package org.example;
+package org.example.TrickeyQuestion;
 
 public class TrickeyQuestion7 {
     static  int i=10;

@@ -1,4 +1,4 @@
-package org.example;
+package org.example.TrickeyQuestion;
 
 class Vehical2{
     int numSpeed=200;
