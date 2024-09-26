@@ -4,7 +4,5 @@ public class TwostringFromOne {
     public static void main(String[] args) {
 
 
-
-
     }
 }
