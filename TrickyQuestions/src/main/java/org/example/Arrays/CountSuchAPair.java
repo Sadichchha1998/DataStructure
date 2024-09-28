@@ -1,4 +1,7 @@
 package org.example.Arrays;
+
+import java.util.Scanner;
+
 /*
 Description
 You are given an array A of N integers along with a target integer K .
@@ -19,6 +22,25 @@ Sample Output
  */
 public class CountSuchAPair {
     public static void main(String[] args) {
-
+        Scanner sc= new Scanner(System.in);
+        int n= sc.nextInt();
+        int k= sc.nextInt();
+        int [] arr= new int[n];
+        for (int i=0;i<n;i++){
+            arr[i]=sc.nextInt();
+        }
+      System.out.println(CountSuchPair(n,k,arr));
     }
+    public  static int  CountSuchPair(int n ,int k, int[] arr){
+        int count=0;
+        for (int i=0;i<n-1;i++){
+            for(int j=i+1;j<n;j++){
+                if(arr[i]+arr[j]==k){
+                    count++;
+                }
+            }
+        }
+        return count;
+    }
+
 }
